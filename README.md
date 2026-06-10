@@ -83,7 +83,7 @@ python Ranoroarijaona.py
 
 **Pascal Ranoroarijaona**  
 Web, Energy & Climate | Wellbeing Economics  
-🐦 [@MadaGasBit](https://twitter.com/MadaGasBit)  
+🐦 [@TheSunStandard](https://twitter.com/MadaGasBit)  
 🌍 Madagascar | Australia | France
 
 ---
