@@ -2,14 +2,14 @@
 
 > **CO₂ = Population × (Wellbeing / Capita) × (kWh / Wellbeing) × (CO₂ / kWh)**  
 > *A wellbeing-centered decomposition of global carbon emissions*  
-> **Pascal Ranaora** | November 2025
+> **Pascal Ranoroarijaona** | November 2025
 
 ---
 
 ## 🎯 Why This Matters
 
 The **Kaya Identity** measures progress in **GDP per kWh**.  
-The **Ranaora-? Wellbeing Identity** measures progress in **human flourishing per kWh**.
+The **Ranoroarijaona-? Wellbeing Identity** measures progress in **human flourishing per kWh**.
 
 > **We don’t need more GDP. We need more joy, health, and dignity — per kilowatt.**
 
@@ -37,7 +37,7 @@ Run the visualization:
 
 ```bash
 pip install -r requirements.txt
-python ranaora.py
+python Ranoroarijaona.py
 ```
 
 ---
@@ -66,13 +66,13 @@ python ranaora.py
 ## 📜 Citation
 
 ```bibtex
-@misc{ranaora2025,
-  author = {Ranaora, Pascal},
+@misc{Ranoroarijaona2025,
+  author = {Ranoroarijaona, Pascal},
   title = {The Wellbeing Identity: A Wellbeing-Centric Reformulation of the Kaya Identity},
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/pascalranaora/wellbeing-identity}},
+  howpublished = {\url{https://github.com/pascalRanoroarijaona/wellbeing-identity}},
   note = {Accessed: November 2025}
 }
 ```
@@ -81,7 +81,7 @@ python ranaora.py
 
 ## 👨‍🔬 Author
 
-**Pascal Ranaora**  
+**Pascal Ranoroarijaona**  
 Web, Energy & Climate | Wellbeing Economics  
 🐦 [@MadaGasBit](https://twitter.com/MadaGasBit)  
 🌍 Madagascar | Australia | France
@@ -95,6 +95,6 @@ Web, Energy & Climate | Wellbeing Economics
 ---
 
 > **Let’s decarbonize *human outcomes*, not just dollars.**  
-> **#WellbeingRanaoraIdentity #EnergyForWellbeing #ClimateJustice**
+> **#WellbeingRanoroarijaonaIdentity #EnergyForWellbeing #ClimateJustice**
 
 
